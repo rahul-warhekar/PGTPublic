@@ -1,13 +1,13 @@
 {
 	"name": "Wait-Test-Pipeline",
 	"properties": {
-		"description": "added description to pipeline",
+		"description": "added description to pipeline new desrcitpion",
 		"activities": [
 			{
 				"name": "Wait1",
 				"type": "Wait",
 				"typeProperties": {
-					"waitTimeInSeconds": 62
+					"waitTimeInSeconds": 50
 				}
 			}
 		]
